@@ -1,6 +1,6 @@
 // 
 node{
-    git branch: 'main', url: 'https://github.com/Nacib-b/java-app.git'
+    git branch: 'main', url: 'https://github.com/Nacib-b/simple-java-app.git'
     stage('build'){
         try{
         sh 'echo build stage'
